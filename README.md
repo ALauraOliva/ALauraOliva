@@ -29,13 +29,6 @@ Welcome to my GitHub profile! I'm a software development enthusiast with a passi
 
 </div>
 
-## Contact
-
-Feel free to reach out! You can find me at:
-
-- 📧 Email: andrea_carol00@hotmail.com
-- 💬 LinkedIn: https://www.linkedin.com/in/andrea-laura-99604a275/
-
 ## GitHub Statistics
 
 <div align="center">
@@ -43,4 +36,12 @@ Feel free to reach out! You can find me at:
 [![Andrea's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALauraOliva&show_icons=true&theme=radical&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+## Contact
+
+Feel free to reach out! You can find me at:
+
+- 📧 Email: andrea_carol00@hotmail.com
+- 💬 LinkedIn: https://www.linkedin.com/in/andrea-laura-99604a275/
+  
 Thanks for visiting my profile!
