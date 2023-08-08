@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hello World, I'm Andrea! 👋
-Welcome to my GitHub profile! I'm a software development enthusiast with a passion for programming and creating useful and creative things.
+Welcome to my GitHub profile!
 
 </div>
 
