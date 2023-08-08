@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 - 🎓 I hold a bachelor's degree in Systems Engineering.
 - ✨ I love finding new ways to create intuitive, appealing, and innovative designs.
 
-## Projects
+## Featured Projects
 <div align="center">
 
   <a href="https://github.com/ALauraOliva/Rick-and-Morty">
