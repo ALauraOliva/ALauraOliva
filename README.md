@@ -12,6 +12,18 @@ Welcome to my GitHub profile!
 - 🎓 I hold a bachelor's degree in Systems Engineering.
 - ✨ I love finding new ways to create intuitive, appealing, and innovative designs.
 
+## Projects
+<div align="center">
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&theme=one_dark_pro" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&theme=one_dark_pro" />
+  </a>
+
+</div>
+
 ## Technologies
 
 <div align="center">
@@ -32,9 +44,17 @@ Welcome to my GitHub profile!
 ## GitHub Statistics
 
 <div align="center">
-  
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=one_dark_pro#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=one_dark_pro#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+  <a href="https://github.com/ALauraOliva/github-readme-stats#gh-dark-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ALauraOliva&show_icons=true&theme=one_dark_pro#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/ALauraOliva/github-readme-stats#gh-light-mode-only">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ALauraOliva&show_icons=true&theme=default#gh-dark-mode-only" />
+  </a>
+  <a href="https://github.com/ALauraOliva/convoychat">
+    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALauraOliva&layout=compact&theme=one_dark_pro&langs_count=8&card_width=320" />
+  </a>
+
 
 </div>
 
