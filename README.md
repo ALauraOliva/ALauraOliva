@@ -16,10 +16,10 @@ Welcome to my GitHub profile!
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&theme=one_dark_pro" />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&theme=one_dark_pro" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=150  align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&theme=one_dark_pro" />
+    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&theme=one_dark_pro" />
   </a>
 
 </div>
