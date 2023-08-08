@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello World, I'm Andrea! 👋
+# 🌍 Hello World, I'm Andrea! 🌍
 I welcome you to my GitHub profile.
 
 Feel free to explore my projects and repositories. Every line of code is a small step toward learning and constant improvement.
