@@ -19,10 +19,10 @@ If you have suggestions, comments, or tips to help me enhance my skills, please 
 <div align="center">
 
   <a href="https://github.com/ALauraOliva/Rick-and-Morty">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&theme=one_dark_pro" />
+    <img height=120 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&theme=one_dark_pro" />
   </a>
   <a href="https://github.com/ALauraOliva/Pokemon_App">
-    <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&theme=one_dark_pro" />
+    <img height=120 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&theme=one_dark_pro" />
   </a>
 
 </div>
@@ -49,13 +49,13 @@ If you have suggestions, comments, or tips to help me enhance my skills, please 
 <div align="center">
 
   <a href="https://github.com/ALauraOliva/github-readme-stats#gh-dark-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ALauraOliva&show_icons=true&theme=one_dark_pro#gh-dark-mode-only" />
+    <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALauraOliva&show_icons=true&theme=one_dark_pro#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/ALauraOliva/github-readme-stats#gh-light-mode-only">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=ALauraOliva&show_icons=true&theme=default#gh-dark-mode-only" />
+    <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ALauraOliva&show_icons=true&theme=default#gh-dark-mode-only" />
   </a>
   <a href="https://github.com/ALauraOliva/convoychat">
-    <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ALauraOliva&layout=compact&theme=one_dark_pro&langs_count=8&card_width=320" />
+    <img height=150 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ALauraOliva&layout=compact&theme=one_dark_pro&langs_count=8&card_width=320" />
   </a>
 
 
