@@ -19,13 +19,13 @@ If you have suggestions, comments, or tips to help me enhance my skills, please 
 <div align="center">
 
   <a href="https://github.com/ALauraOliva/Rick-and-Morty">
-    <img height=100 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&theme=one_dark_pro" />
+    <img height=90 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&theme=one_dark_pro" />
   </a>
   <a href="https://github.com/ALauraOliva/Pokemon_App">
-    <img height=100 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&theme=one_dark_pro" />
+    <img height=90 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&theme=one_dark_pro" />
   </a>
   <a href="https://github.com/ALauraOliva/GreenLand">
-    <img height=100 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=GreenLand&theme=one_dark_pro" />
+    <img height=90 align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=GreenLand&theme=one_dark_pro" />
   </a>
 
 </div>
