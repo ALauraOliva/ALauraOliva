@@ -48,7 +48,7 @@ If you have suggestions, comments, or tips to help me enhance my skills, please 
 ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 </div>
 
 ## GitHub Statistics
