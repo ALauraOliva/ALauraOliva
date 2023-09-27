@@ -78,5 +78,6 @@ Feel free to reach out! You can find me at:
 
 - 📧 Email: andrea_carol00@hotmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/andrea-laura-99604a275/
+- 📁 Portfolio: https://alaura.vercel.app/
   
 Thanks for visiting my profile!
