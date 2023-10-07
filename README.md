@@ -74,7 +74,7 @@ If you have suggestions, comments, or tips to help me enhance my skills, please 
 
 ## Contact
 
-Feel free to reach out! You can find me at:
+Feel free to reach out! You can find me at :
 
 - 📧 Email: andrea_carol00@hotmail.com
 - 💬 LinkedIn: https://www.linkedin.com/in/andrea-laura-99604a275/
