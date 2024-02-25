@@ -28,10 +28,10 @@
 
 ###
 <div align="center">
-  <img height="200" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&disable_animations=false&theme=onedark&locale=en&hide_border=true" />  
-    <img height="200" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&disable_animations=false&theme=onedark&locale=en&hide_border=true" />
-    <img height="200" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Greenland&disable_animations=false&theme=onedark&locale=en&hide_border=true" />
-    <img height="200" width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=portfolio&disable_animations=false&theme=onedark&locale=en&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&disable_animations=false&theme=onedark&locale=en&hide_border=true" />  
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&disable_animations=false&theme=onedark&locale=en&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Greenland&disable_animations=false&theme=onedark&locale=en&hide_border=true" />
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=portfolio&disable_animations=false&theme=onedark&locale=en&hide_border=true" />
 </div>
 
 <h2 align="left">TECH stack</h2>
