@@ -2,17 +2,8 @@
 
 ###
 
-<p align="center">I welcome you to my GitHub profile.</p>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<p align="center">Feel free to explore my projects and repositories. Every line of code is a small step toward learning and constant improvement.<br><br>If you have suggestions, comments, or tips to help me enhance my skills, please don't hesitate to let me know. I'm always seeking opportunities to grow and become an even better developer each day.</p>
+<p align="center">I welcome you to my GitHub profile <br/><br/>
+Feel free to explore my projects and repositories. Every line of code is a small step toward learning and constant improvement.<br><br>If you have suggestions, comments, or tips to help me enhance my skills, please don't hesitate to let me know. I'm always seeking opportunities to grow and become an even better developer each day.</p>
 
 ###
 
@@ -27,8 +18,9 @@
 <h2 align="left">FEATURED projects</h2>
 
 ###
+
 <div align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&hide_border=true&repo=Rick-and-Morty&disable_animations=true&theme=onedark&locale=en" href="https://github.com/ALauraOliva/portfolio" />  
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&disable_animations=true&theme=onedark&locale=en&hide_border=true" />
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Greenland&disable_animations=true&theme=onedark&locale=en&hide_border=true" />
   <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=portfolio&disable_animations=true&theme=onedark&locale=en&hide_border=true" />
@@ -95,8 +87,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlauraOliva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=en&hide_border=true" height="156" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlauraOliva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=onedark&hide_border=true" height="156" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlauraOliva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=onedark&locale=en&hide_border=false" height="156" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlauraOliva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=onedark&hide_border=false" height="156" alt="languages graph"  />
 </div>
 
 ###
@@ -104,6 +96,8 @@
 <h2 align="left">CONTACT me</h2>
 
 ###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div align="left">
   <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
