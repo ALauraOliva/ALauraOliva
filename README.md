@@ -20,9 +20,7 @@ Feel free to explore my projects and repositories. Every line of code is a small
 ###
 
 <div align="center">
-  <a href="https://github.com/ALauraOliva/space-tourism-website" target="_blank">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=space-tourism-website&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
-  </a>
+ 
   <a href="https://github.com/ALauraOliva/image-gallery-next" target="_blank">
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=image-gallery-next&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
   </a>
