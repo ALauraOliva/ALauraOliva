@@ -20,10 +20,18 @@ Feel free to explore my projects and repositories. Every line of code is a small
 ###
 
 <div align="center">
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Rick-and-Morty&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Pokemon_App&disable_animations=true&theme=onedark&locale=en&hide_border=true" />
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Greenland&disable_animations=true&theme=onedark&locale=en&hide_border=true" />
-  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=portfolio&disable_animations=true&theme=onedark&locale=en&hide_border=true" />
+  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=space-tourism-website&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
+  </a>
+  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=image-gallery-next&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
+  </a>
+  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Greenland&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
+  </a>
+  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=portfolio&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
+  </a>
 </div>
 
 <h2 align="left">TECH stack</h2>
