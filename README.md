@@ -20,16 +20,16 @@ Feel free to explore my projects and repositories. Every line of code is a small
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+  <a href="https://github.com/ALauraOliva/space-tourism-website" target="_blank">
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=space-tourism-website&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
   </a>
-  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+  <a href="https://github.com/ALauraOliva/image-gallery-next" target="_blank">
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=image-gallery-next&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
   </a>
-  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+  <a href="https://github.com/ALauraOliva/GreenLand" target="_blank">
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Greenland&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
   </a>
-  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+  <a href="https://github.com/ALauraOliva/portfolio" target="_blank">
     <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=portfolio&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
   </a>
 </div>
