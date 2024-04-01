@@ -14,7 +14,7 @@ Feel free to explore my projects and repositories. Every line of code is a small
 <p align="left">👩‍💻 I'm a a Full Stack Developer enthusiast.<br>🎓 I hold a bachelor's degree in Systems Engineering.<br>✨ I love finding new ways to create intuitive, appealing, and innovative designs.</p>
 
 ###
-
+<!---
 <h2 align="left">FEATURED projects</h2>
 
 ###
@@ -35,7 +35,7 @@ Feel free to explore my projects and repositories. Every line of code is a small
 </div>
 
 <h2 align="left">TECH stack</h2>
-
+--->
 ###
 
 <div align="center">
