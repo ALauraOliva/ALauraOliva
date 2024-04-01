@@ -65,11 +65,11 @@ Feel free to explore my projects and repositories. Every line of code is a small
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/" target="_blank">
+  <a href="https://www.linkedin.com/in/andrea-laura-99604a275/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="31" alt="linkedin logo"  />
   </a>
-  <a href="andrea_carol00@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="31" alt="gmail logo"  />
+  <a href="mailto:andrea_carol00@hotmail.com">
+    <img src="https://img.shields.io/static/v1?message=Mail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="31" alt="gmail logo" />
   </a>
 </div>
 
