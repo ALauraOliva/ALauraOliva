@@ -12,28 +12,6 @@ Feel free to explore my projects and repositories. Every line of code is a small
 ###
 
 <p align="left">👩‍💻 I'm a a Full Stack Developer enthusiast.<br>🎓 I hold a bachelor's degree in Systems Engineering.<br>✨ I love finding new ways to create intuitive, appealing, and innovative designs.</p>
-
-###
-<!---
-<h2 align="left">FEATURED projects</h2>
-
-###
-
-<div align="center">
-  <a href="https://github.com/ALauraOliva/space-tourism-website" target="_blank">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=space-tourism-website&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
-  </a>
-  <a href="https://github.com/ALauraOliva/image-gallery-next" target="_blank">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=image-gallery-next&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
-  </a>
-  <a href="https://github.com/ALauraOliva/GreenLand" target="_blank">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=Greenland&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
-  </a>
-  <a href="https://github.com/ALauraOliva/portfolio" target="_blank">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=ALauraOliva&repo=portfolio&disable_animations=true&theme=onedark&locale=en&hide_border=true"/>  
-  </a>
-</div>
---->
  
 ###
 
@@ -60,10 +38,7 @@ Feel free to explore my projects and repositories. Every line of code is a small
 
 <h2 align="left">CONTACT me</h2>
 
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+### 
 <a href="https://www.linkedin.com/in/andrea-laura-99604a275/">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="31" alt="linkedin logo"  />
 </a>
